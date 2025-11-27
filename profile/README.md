@@ -216,5 +216,210 @@
 
 <br>
 
+### [상품 검색]
+- 상품 검색
+
+| 상품 검색 |
+|----------|
+|![login](https://github.com/MRoKGA/image/blob/main/2-2(%EC%98%81%EC%83%81).gif?raw=true)|
 
 <br>
+
+### [내 물건 팔기]
+- 상품 이미지 업로드 (0/5)
+- 실제 이미지는 백엔드로 전송되어 AWS S3 버킷에 저장
+- 카테고리 선택
+- 거래 방식 선택 (판매하기 / 나눔하기)
+- 역제안 받기(가격 제안) 옵션
+- 거래 희망 장소 설정 (Kakao Map API 팝업)
+
+
+| 내 물건 팔기 | 위치 찾기 |
+|----------|----------|
+|![login](https://github.com/MRoKGA/image/blob/main/2-3.png?raw=true)|![login](https://github.com/MRoKGA/image/blob/main/2-4.png?raw=true)|
+
+<br>
+
+### [동네생활 피드]
+- 동네 모임/주제 카테고리 노출
+- 전체 / 카테고리 필터
+- 게시글 리스트
+- 인기 게시글(“맛집 추천합니다!” 등)
+- 좋아요 기능
+- 조회수 증가
+- 게시글 본문 + 이미지 표시
+- 지도 기반 위치 표시
+- 댓글 기능 (CRUD)
+- 본인 글 수정/삭제 메뉴
+
+
+| 동네생활 피드 | 동네생활 게시물 |
+|----------|----------|
+|![login](https://github.com/MRoKGA/image/blob/main/3-1.png?raw=true)|![login](https://github.com/MRoKGA/image/blob/main/3-2.png?raw=true)|
+
+<br>
+
+### [동네생활 글쓰기]
+- 게시글 주제 선택 Ex)동네정보, 이웃과함께, 소식
+- 질문글 여부 체크박스
+- 주제 클릭 시 즉시 선택 & 팝업 닫힘
+- 선택된 주제는 글쓰기 상단에 표시
+
+
+| 동네생활 글쓰기 | 카테고리 팝업 |
+|----------|----------|
+|![login](https://github.com/MRoKGA/image/blob/main/3-3.png?raw=true)|![login](https://github.com/MRoKGA/image/blob/main/3-4.png?raw=true)|
+
+<br>
+
+### [모임 만들기]
+- 대표 이미지 업로드
+- 대표 동네 표시
+- 모임 이름 입력
+- 공개범위 설정(PUBLIC, PRIVATE)
+- 가입정책 선택(OPEN, APPROVAL, CLOSED)
+
+
+| 모임 만들기 | 모임 썸네일 |
+|----------|----------|
+|![login](https://github.com/MRoKGA/image/blob/main/3-5.png?raw=true)|![login](https://github.com/MRoKGA/image/blob/main/3-6.png?raw=true)|
+
+<br>
+
+
+
+### [동네모임 상세 화면]
+- 모임 대표 정보
+- 관리기능
+- 모임 탈퇴 기능
+- 이벤트 리스트 표시
+- 가입정책 선택(OPEN, APPROVAL, CLOSED)
+- 모임 만들기
+- 지도에서 위치 선택 기능
+
+
+| 모임 만들기 | 모임 썸네일 | 모임 썸네일 |
+|----------|----------|----------|
+|![login](https://github.com/MRoKGA/image/blob/main/3-7.png?raw=true)|![login](https://github.com/MRoKGA/image/blob/main/3-8.png?raw=true)|![login](https://github.com/MRoKGA/image/blob/main/3-9.png?raw=true)|
+
+<br>
+
+### [거래 채팅]
+- 실시간 메시지 전송
+- 판매자 매너온도 표시
+- 상품 정보 고정 영역
+- 약속잡기 기능(핵심)
+- 약속잡기 입력 폼 기능
+- 약속 제안 메시지 자동 생성
+- 약속 취소 기능
+- 당근페이(카카오페이 연동)
+
+
+| 채팅 | 약속잡기 | 모임 썸네일 |
+|----------|----------|----------|
+|![login](https://github.com/MRoKGA/image/blob/main/5-9.png?raw=true)|![login](https://github.com/MRoKGA/image/blob/main/%EC%95%BD%EC%86%8D%EC%9E%A1%EA%B8%B0.png?raw=true)|![login](https://github.com/MRoKGA/image/blob/main/5-8.png?raw=true)|
+
+<br>
+
+### [거래 채팅]
+- 실시간 메시지 전송
+- 판매자 매너온도 표시
+- 상품 정보 고정 영역
+- 약속잡기 기능(핵심)
+- 약속잡기 입력 폼 기능
+- 약속 제안 메시지 자동 생성
+- 약속 취소 기능
+- 당근페이(카카오페이 연동)
+
+
+| 채팅 | 약속잡기 | 모임 썸네일 |
+|----------|----------|----------|
+|![login](https://github.com/MRoKGA/image/blob/main/5-9.png?raw=true)|![login](https://github.com/MRoKGA/image/blob/main/%EC%95%BD%EC%86%8D%EC%9E%A1%EA%B8%B0.png?raw=true)|![login](https://github.com/MRoKGA/image/blob/main/5-8.png?raw=true)|
+
+| 거래1 | 거래2 |
+|----------|----------|
+|![login](https://github.com/MRoKGA/image/blob/main/5-6.png?raw=true)|![login](https://github.com/MRoKGA/image/blob/main/5-7.png?raw=true)|![login]
+
+| 거래3 | 거래4 |
+|----------|----------|
+|![login](https://github.com/MRoKGA/image/blob/main/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%8E%98%EC%9D%B4%EA%B2%B0%EC%A0%9C.png?raw=true)|![login](https://github.com/MRoKGA/image/blob/main/%EA%B2%B0%EC%A0%9C%20%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%86%A1.png?raw=true)|![login]
+
+| 거래5 |
+|----------|
+|![login](https://github.com/MRoKGA/image/blob/main/5-10.png?raw=true)|
+
+<br>
+
+### [동네지도]
+- 동네지도 추천 서비스
+- KAKAO MAP 사용
+
+| 동네지도 |
+|----------|
+|![login](https://github.com/MRoKGA/image/blob/main/3-11.png?raw=true)|
+
+<br>
+
+### [프로필 화면]
+- 프로필 이미지 / 닉네임 / 계정정보 표시
+- 매너온도 그래프 시각화
+
+| 프로필 화면 |
+|----------|
+|![login](https://github.com/MRoKGA/image/blob/main/5-1.png?raw=true)|
+
+<br>
+
+### [나의 판매내역]
+- 판매중 / 예약중 / 거래완료 탭 구분
+- 상품 수정 / 삭제 / 거래완료 처리 버튼 제공
+- 채팅수·관심수·조회수 표시
+
+| 나의 판매내역 |
+|----------|
+|![login](https://github.com/MRoKGA/image/blob/main/5-2.png?raw=true)|
+
+<br>
+
+### [나의 판매내역]
+- 판매중 / 예약중 / 거래완료 탭 구분
+- 상품 수정 / 삭제 / 거래완료 처리 버튼 제공
+- 채팅수·관심수·조회수 표시
+
+| 나의 판매내역 |
+|----------|
+|![login](https://github.com/MRoKGA/image/blob/main/5-2.png?raw=true)|
+
+<br>
+
+### [나의 구매내]
+- 내가 구매한 상품 리스트 표시
+- 리뷰 작성 버튼 제공
+- 리뷰 작성 시 별점 + 후기 입력 가능
+
+| 나의 구매내역 | 나의 구매내역 후기작성 | 나의 구매내역 후기완료 |
+|----------|----------|----------|
+|![login](https://github.com/MRoKGA/image/blob/main/5-3.png?raw=true)|![login](https://github.com/MRoKGA/image/blob/main/5-3-1.png?raw=true)|![login](https://github.com/MRoKGA/image/blob/main/5-3-2.png?raw=true)|
+
+<br>
+
+### [나의 관심목록]
+- 관심 등록한 상품 목록 표시
+- 상품 상세 페이지로 이동 가능
+- 시간 정보(예: 78일 전) 표시
+
+| 나의 관심목록 |
+|----------|
+|![login](https://github.com/MRoKGA/image/blob/main/5-4.png?raw=true)|
+
+<br>
+
+### [나의 약속화면]
+- 캘린더 기반 일정 확인
+- 약속 상태별 필터(전체 / 제안됨 / 수락됨 / 거절됨 / 취소됨)
+- 약속 상세 정보 제공
+
+| 나의 약속화면 |
+|----------|
+|![login](https://github.com/MRoKGA/image/blob/main/5-5.png?raw=true)|
+
