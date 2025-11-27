@@ -189,6 +189,32 @@
 
 <br>
 
+### [홈 화면]
+- 상단 카테고리 필터
+- 지역(동네) 기반 상품 리스트
+- 상품 썸네일 + 정보 표시
+- 하단 Floating Button (상품 등록 버튼)
+- 검색 버튼
+
+| 홈 화면 |
+|----------|
+|![login](https://github.com/MRoKGA/image/blob/main/2.png?raw=true)|
+
+<br>
+
+### [상품 상세]
+- 상품 이미지 슬라이드
+- 판매자 정보 표시
+- 좋아요 기능
+- 조회수 기능
+- 채팅하기 기능
+- 선호 거래 지역(지도 표시)
+
+| 상품 상세 |
+|----------|
+|![login](https://github.com/MRoKGA/image/blob/main/2-1(%EC%98%81%EC%83%81).gif?raw=true)|
+
+<br>
 
 
 <br>
