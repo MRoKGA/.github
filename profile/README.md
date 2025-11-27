@@ -325,23 +325,6 @@
 |----------|----------|----------|
 |![login](https://github.com/MRoKGA/image/blob/main/5-9.png?raw=true)|![login](https://github.com/MRoKGA/image/blob/main/%EC%95%BD%EC%86%8D%EC%9E%A1%EA%B8%B0.png?raw=true)|![login](https://github.com/MRoKGA/image/blob/main/5-8.png?raw=true)|
 
-<br>
-
-### [거래 채팅]
-- 실시간 메시지 전송
-- 판매자 매너온도 표시
-- 상품 정보 고정 영역
-- 약속잡기 기능(핵심)
-- 약속잡기 입력 폼 기능
-- 약속 제안 메시지 자동 생성
-- 약속 취소 기능
-- 당근페이(카카오페이 연동)
-
-
-| 채팅 | 약속잡기 | 모임 썸네일 |
-|----------|----------|----------|
-|![login](https://github.com/MRoKGA/image/blob/main/5-9.png?raw=true)|![login](https://github.com/MRoKGA/image/blob/main/%EC%95%BD%EC%86%8D%EC%9E%A1%EA%B8%B0.png?raw=true)|![login](https://github.com/MRoKGA/image/blob/main/5-8.png?raw=true)|
-
 | 거래1 | 거래2 |
 |----------|----------|
 |![login](https://github.com/MRoKGA/image/blob/main/5-6.png?raw=true)|![login](https://github.com/MRoKGA/image/blob/main/5-7.png?raw=true)|![login]
