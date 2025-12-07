@@ -401,3 +401,37 @@
 |----------|
 |![login](https://github.com/MRoKGA/image/blob/main/5-5.png?raw=true)|
 
+<br>
+
+## 어려웠던점
+
+### 🍊이동국
+
+### 문제상황
+- Chrome, Android에서는 위치 권한 요청이 잘 동작함
+- 하지만 iPhone Safari에서는 현재위치로 찾기 버튼을 눌러도 아무 반응 없음
+- 콘솔엔 "GPS 접근이 거부되었습니다.", "주소 정보를 찾을 수 없습니다."만 출력됨
+- Kakao API에서 401 Unauthorized 오류 발생
+
+### 원인
+ - iOS Safari는 HTTPS 환경이 아닌 경우 navigator.geolocation 접근을 차단합니다.
+
+ 
+### 해결방법
+ - LocalTunnel 사용하기
+
+ ### 🍊홍재호
+- 
+ ### 🍊이의준
+- 
+
+## 소감
+
+### 🍊이동국
+- ㅇㅇㅇ
+
+### 🍊이의준
+- ㅇㅇㅇ
+
+### 🍊홍재호
+- ㅇㅇㅇ
